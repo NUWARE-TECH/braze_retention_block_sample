@@ -12,3 +12,4 @@ project_name: "braze_retention_block_local"
 #test comment 4
 #test comment 5
 #test comment 6
+#test comment 7
